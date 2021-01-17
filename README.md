@@ -6,10 +6,4 @@ Di seguito si mostrano alcuni screenshot relativi all’esecuzione del gioco:
 
 E' disponibile il file .jar eseguibile del gioco.
 
-![sp1](https://user-images.githubusercontent.com/51203516/70462124-82dd4580-1aba-11ea-8bbb-1c1ac99721ac.jpg)
 
-![sp2](https://user-images.githubusercontent.com/51203516/70462145-8c66ad80-1aba-11ea-896c-e165122b5fb5.jpg)
-
-![sp3](https://user-images.githubusercontent.com/51203516/70462155-938dbb80-1aba-11ea-8168-da30b093d984.jpg)
-
-![sp4](https://user-images.githubusercontent.com/51203516/70462164-9a1c3300-1aba-11ea-8c1d-be01a5ece85d.jpg)
